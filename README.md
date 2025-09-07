@@ -12,19 +12,19 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
   - 2 Baralhos (104 cartas).
 •Pontuação:
 
-  A (ás) = 1 ponto
-  2 (dois) = 2 pontos
-  3 (três) = 3 pontos
-  4 (quatro) = 4 pontos
-  5 (cinco) = 5 pontos
-  6 (seis) = 6 pontos
-  7 (sete) = 7 pontos
-  8 (oito) = 8 pontos
-  9 (nove) = 9 pontos
-  10 (dez) = 10 pontos
-  J (valete) = 11 pontos
-  Q (dama) = 12 pontos
-  K (rei) = 13 pontos
+  - A (ás) = 1 ponto
+  - 2 (dois) = 2 pontos
+  - 3 (três) = 3 pontos
+  - 4 (quatro) = 4 pontos
+  - 5 (cinco) = 5 pontos
+  - 6 (seis) = 6 pontos
+  - 7 (sete) = 7 pontos
+  - 8 (oito) = 8 pontos
+  - 9 (nove) = 9 pontos
+  - 10 (dez) = 10 pontos
+  - J (valete) = 11 pontos
+  - Q (dama) = 12 pontos
+  - K (rei) = 13 pontos
 
 ### Iniciando o Jogo
   As cartas são embaralhadas e em seguida distribuídas 5 para cada jogador.
