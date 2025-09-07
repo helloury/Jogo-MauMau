@@ -35,9 +35,9 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
   desempilhada do lixo, exceto o topo do lixo (para que o jogador não perca a referência). Dessa forma o monte passa
   a ser o (antigo lixo – topo) invertido e o lixo fica somente com o antigo topo.
   
-  Existe 3 tipos de cartas: estado, castigo e neutra.  
-    * estado: Q (dama ou rainha) inverte a rotação, de horário para anti-horário e vice-versa.
-    * castigo: A (ás) faz com que o próximo jogador não jogue, direcionando o jogo ao “próximo do próximo”.
+- Existe 3 tipos de cartas: estado, castigo e neutra.  
+    - estado: Q (dama ou rainha) inverte a rotação, de horário para anti-horário e vice-versa.
+    - castigo: A (ás) faz com que o próximo jogador não jogue, direcionando o jogo ao “próximo do próximo”.
     - 7 (sete) o próximo jogador compra 2 cartas.
     - 9 (nove) o jogador anterior compra 3 cartas.
     - neutra: todas as outras cartas. 
