@@ -10,8 +10,7 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
     -Objetivo: Uma rodada termina quando um jogador descartar todas as cartas da mão. Ao final da rodada o
     jogador que tem maior número de pontos sai do jogo. Inicia uma nova rodada até que reste apenas um jogador, o vencedor.
     -2 Baralhos (104 cartas).
-•Pontuação:
-
+- Pontuação:
   - A (ás) = 1 ponto
   - 2 (dois) = 2 pontos
   - 3 (três) = 3 pontos
@@ -38,8 +37,8 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
   a ser o (antigo lixo – topo) invertido e o lixo fica somente com o antigo topo.
   
   Existe 3 tipos de cartas: estado, castigo e neutra.  
-    - estado: Q (dama ou rainha) inverte a rotação, de horário para anti-horário e vice-versa.
-    - castigo: A (ás) faz com que o próximo jogador não jogue, direcionando o jogo ao “próximo do próximo”.
+    * estado: Q (dama ou rainha) inverte a rotação, de horário para anti-horário e vice-versa.
+    * castigo: A (ás) faz com que o próximo jogador não jogue, direcionando o jogo ao “próximo do próximo”.
     - 7 (sete) o próximo jogador compra 2 cartas.
     - 9 (nove) o jogador anterior compra 3 cartas.
     - neutra: todas as outras cartas. 
