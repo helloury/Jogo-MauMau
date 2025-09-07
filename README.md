@@ -24,7 +24,7 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
   - Q (dama) = 12 pontos
   - K (rei) = 13 pontos
 
-### 🚀 Iniciando o Jogo
+### ▶️ Iniciando o Jogo
   As cartas são embaralhadas e em seguida distribuídas 5 para cada jogador.
   O jogo começa em sentido horário, mas pode mudar no decorrer do jogo.
   O jogador, na sua vez, descarta uma carta do mesmo valor ou do mesmo número da que está no
