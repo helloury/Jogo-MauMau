@@ -5,11 +5,10 @@ O trabalho foi implementado integralmente em **C++**, utilizando Pilha, Fila, Li
 ---
 
 ### O Jogo : 
-  Temos muitas variações do jogo. Para o trabalho siga as regras abaixo.
-    -Número de jogadores: de 2 a 10 jogadores.
-    -Objetivo: Uma rodada termina quando um jogador descartar todas as cartas da mão. Ao final da rodada o
-    jogador que tem maior número de pontos sai do jogo. Inicia uma nova rodada até que reste apenas um jogador, o vencedor.
-    -2 Baralhos (104 cartas).
+- Temos muitas variações do jogo. Para o trabalho siga as regras abaixo.
+    - Número de jogadores: de 2 a 10 jogadores.
+    - Objetivo: Uma rodada termina quando um jogador descartar todas as cartas da mão. Ao final da rodada o jogador que tem maior número de pontos sai do jogo. Inicia uma nova rodada até que reste apenas um jogador, o vencedor.
+    - 2 Baralhos (104 cartas).
 - Pontuação:
   - A (ás) = 1 ponto
   - 2 (dois) = 2 pontos
